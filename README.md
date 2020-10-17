@@ -6,7 +6,7 @@ There are 2 notebooks in this repository:
 
 All neccessary functions have been defined in the same notebook, so only one has to be run to test the code. 
 
-About the project:
+About the project -----
 
 Objective: Train a single artificial neuron to a high accuracy, in order to be used as a binary classifier in the problem.
 
@@ -20,7 +20,8 @@ Choose your own Parameters:
       Learning Rate 
       Random Seed
       
-Results:
+Results -----
 
 -100% training accuracy obtainable
+
 -100% validation accuracy obtainable 
