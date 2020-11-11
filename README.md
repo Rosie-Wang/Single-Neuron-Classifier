@@ -1,4 +1,4 @@
-# Single-Neuron-Classifier
+# X-Pattern Detector with Single Neuron Classifiers
 
 There are 2 notebooks in this repository:
 1. One notebook contains my code for the Single Neuron Classifier coded from scratch in Python (uses NumPy, matplotlib). 
